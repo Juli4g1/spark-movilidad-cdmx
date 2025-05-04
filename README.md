@@ -51,7 +51,6 @@ Se consultó IA (ChatGPT) para resolver dudas  durante el desarrollo en Databric
 - ✔ Ayuda para corregir sintaxis en funciones como `groupBy().agg()` y `orderBy()` en Spark DataFrames.
 - ✔ Orientación para crear gráficas usando `matplotlib.pyplot.bar()` s.
 
-Todas las transformaciones y visualizaciones fueron ejecutadas por el estudiante, con apoyo puntual de IA para evitar errores técnicos.
 
 ---
 
