@@ -55,3 +55,15 @@ Se consultó IA (ChatGPT) para resolver dudas  durante el desarrollo en Databric
 ---
 
 
+🗂 Archivo Databricks (.dbc)
+Este repositorio incluye un archivo .dbc que contiene el notebook original exportado desde la plataforma Databricks.
+
+Nombre del archivo: notebook_practica.dbc
+
+Uso: Este archivo permite reimportar el notebook completo dentro de otro entorno Databricks, manteniendo la estructura, celdas y metadatos.
+
+Limitación: No es legible directamente desde GitHub ni compatible con editores como Jupyter o Colab.
+
+Instrucciones: Para abrirlo, ve a tu espacio de trabajo en Databricks, selecciona Import > File y carga el archivo .dbc.
+
+📝 Este archivo se incluye como respaldo del trabajo completo realizado en Databricks, ideal para reutilización o migración del notebook.
