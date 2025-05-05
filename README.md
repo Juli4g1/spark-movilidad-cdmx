@@ -58,7 +58,7 @@ Se consultó IA (ChatGPT) para resolver dudas  durante el desarrollo en Databric
 🗂 Archivo Databricks (.dbc)
 Este repositorio incluye un archivo .dbc que contiene el notebook original exportado desde la plataforma Databricks.
 
-Nombre del archivo: notebook_practica.dbc
+Nombre del archivo: Practica Spark PPC.dbc
 
 Uso: Este archivo permite reimportar el notebook completo dentro de otro entorno Databricks, manteniendo la estructura, celdas y metadatos.
 
